@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Okhttp</string>
+    <string name="action_settings">Settings</string>
+    <string name="download_button">Click To Download Image</string>
+</resources>
